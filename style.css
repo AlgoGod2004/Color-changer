@@ -1,0 +1,36 @@
+
+.main{
+    height: auto;
+    width: auto;
+    display: flex;
+   justify-content: center;
+}
+.button{
+    height: 170px;
+    width: 200px;
+    background-color: red;
+    margin: 7px;
+    border: 2px solid grey;
+   
+}
+#white{
+    background-color: white;
+}
+#black{
+    background-color: black;
+}
+#red{
+    background-color:red;
+}
+#yellow{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+}
+.sub{
+   height: auto;
+   width: auto;
+    display: flex;
+    justify-content: center;
+}
