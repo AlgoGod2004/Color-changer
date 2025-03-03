@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+    color:white;
+    font-size: 1.3rem;
+    
+}
+input{
+    height: 50px;
+    width: 300px;
+    font-size: 1.6rem;
+    margin: 20px;
+    border: 3px solid rgb(229, 216, 216);
+}
+h1{
+    text-align: center;
+}
+.placeholder{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.button{height: 50px;
+    width: 300px;
+    font-size: 1.9rem;
+    border: 3px solid rgb(229, 216, 216);
+    margin: 20px;
+    text-align: center;
+
+}
+p{
+    margin: 7px;
+}
+.result{
+    height: auto;
+    width: 200px;
+    text-align: center;
+}
